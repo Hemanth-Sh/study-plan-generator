@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Environment and secret files
+.env
+
+serviceAccount.json
+
+techtitans-serviceAccount.json
